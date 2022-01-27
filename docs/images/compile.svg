@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="366mm"
+   height="150mm"
+   viewBox="0 0 366 150"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="compile.svg"
+   inkscape:export-filename="/Users/csul/github/workshop-software-management/docs/images/compile.png"
+   inkscape:export-xdpi="0.120952"
+   inkscape:export-ydpi="0.120952">
+  <defs
+     id="defs2">
+    <rect
+       x="27.201708"
+       y="97.746796"
+       width="60.348812"
+       height="26.271694"
+       id="rect1072" />
+    <rect
+       x="27.201708"
+       y="97.746796"
+       width="24.777349"
+       height="11.923541"
+       id="rect1082" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.44256566"
+     inkscape:cx="763.65705"
+     inkscape:cy="230.47461"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="false"
+     inkscape:window-width="1496"
+     inkscape:window-height="1209"
+     inkscape:window-x="1395"
+     inkscape:window-y="581"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g955">
+      <rect
+         style="fill:#f4e3d7;fill-opacity:1;stroke:#000003;stroke-width:1.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.91339;stroke-opacity:1"
+         id="rect874"
+         width="59.335587"
+         height="35.720932"
+         x="8.6983995"
+         y="92.067329"
+         inkscape:export-xdpi="0.12095238"
+         inkscape:export-ydpi="0.12095238" />
+      <path
+         id="rect874-0"
+         style="fill:#f4e3d7;fill-opacity:1;stroke:#000003;stroke-width:1.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.91339;stroke-opacity:1"
+         d="m 50.874738,74.076918 -12.508799,12.5088 -12.50828,-12.50828 -5.169194,5.16868 17.677474,17.67747 17.677993,-17.67747 z"
+         inkscape:export-xdpi="0.12095238"
+         inkscape:export-ydpi="0.12095238" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="40.613262"
+         y="25.40819"
+         id="text835"
+         inkscape:export-xdpi="0.12095238"
+         inkscape:export-ydpi="0.12095238"><tspan
+           sodipodi:role="line"
+           id="tspan833"
+           x="40.613262"
+           y="25.40819"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Courier;-inkscape-font-specification:'Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">header.h</tspan><tspan
+           sodipodi:role="line"
+           x="40.613262"
+           y="38.991051"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Courier;-inkscape-font-specification:'Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan837">myprogram.c</tspan><tspan
+           sodipodi:role="line"
+           x="40.613262"
+           y="52.573914"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Courier;-inkscape-font-specification:'Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan839">myprogram.f</tspan><tspan
+           sodipodi:role="line"
+           x="40.613262"
+           y="66.156776"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan841">(source code)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="202.73291"
+         y="38.934208"
+         id="text861"
+         inkscape:export-xdpi="0.12095238"
+         inkscape:export-ydpi="0.12095238"><tspan
+           sodipodi:role="line"
+           x="202.73291"
+           y="38.934208"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Courier;-inkscape-font-specification:'Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan857">libutil.so</tspan><tspan
+           sodipodi:role="line"
+           x="202.73291"
+           y="52.517071"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Courier;-inkscape-font-specification:'Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan859">libgcc.a</tspan><tspan
+           sodipodi:role="line"
+           x="202.73291"
+           y="66.09993"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan872">(shared object files/libraries)</tspan></text>
+      <path
+         id="path1024"
+         style="fill:#f4e3d7;fill-opacity:1;stroke:#000003;stroke-width:1.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.91339;stroke-opacity:1"
+         d="m 66.039818,122.61906 12.50879,-12.50879 -12.50828,-12.508282 5.16868,-5.1692 17.67747,17.677482 -17.67747,17.67799 z"
+         inkscape:export-xdpi="0.12095238"
+         inkscape:export-ydpi="0.12095238" />
+      <text
+         xml:space="preserve"
+         id="text1070"
+         style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1072);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(-17.72718,-1.3055619)"
+         inkscape:export-xdpi="0.12095238"
+         inkscape:export-ydpi="0.12095238"><tspan
+           x="27.201172"
+           y="107.40156"><tspan>Preprocess
+</tspan></tspan><tspan
+           x="27.201172"
+           y="120.63068"><tspan>&amp; Compile</tspan></tspan></text>
+      <rect
+         style="fill:#f4e3d7;fill-opacity:1;stroke:#000003;stroke-width:1.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.91339;stroke-opacity:1"
+         id="rect1076"
+         width="59.335587"
+         height="35.720932"
+         x="173.17354"
+         y="92.067329" />
+      <text
+         xml:space="preserve"
+         id="text1080"
+         style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1082);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(164.27398,6.5466502)"><tspan
+           x="27.201172"
+           y="107.40156"><tspan>Link</tspan></tspan></text>
+      <path
+         id="path1062"
+         style="fill:#f4e3d7;fill-opacity:1;stroke:#000003;stroke-width:1.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.91339;stroke-opacity:1"
+         d="M 155.26949,122.43634 167.77828,109.92755 155.27,97.419257 l 5.16868,-5.169192 17.67747,17.677485 -17.67747,17.67799 z" />
+      <path
+         id="path1024-3"
+         style="fill:#f4e3d7;fill-opacity:1;stroke:#000003;stroke-width:1.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.91339;stroke-opacity:1"
+         d="m 227.33995,122.43634 12.50879,-12.50879 -12.50828,-12.508293 5.16868,-5.169192 17.67747,17.677485 -17.67747,17.67799 z" />
+      <path
+         id="rect874-0-4"
+         style="fill:#f4e3d7;fill-opacity:1;stroke:#000003;stroke-width:1.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.91339;stroke-opacity:1"
+         d="m 215.34988,74.076922 -12.5088,12.50879 -12.50827,-12.50828 -5.1692,5.16868 17.67747,17.677472 17.678,-17.677472 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="121.91946"
+         y="104.49803"
+         id="text1154"
+         inkscape:export-xdpi="0.12095238"
+         inkscape:export-ydpi="0.12095238"><tspan
+           sodipodi:role="line"
+           x="121.91946"
+           y="104.49803"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Courier;-inkscape-font-specification:'Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1150">myprogram.o</tspan><tspan
+           sodipodi:role="line"
+           x="121.91946"
+           y="118.08089"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1152">(object file)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="309.64111"
+         y="104.52646"
+         id="text1165"
+         inkscape:export-xdpi="0.12095238"
+         inkscape:export-ydpi="0.12095238"><tspan
+           sodipodi:role="line"
+           x="309.64111"
+           y="104.52646"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Courier;-inkscape-font-specification:'Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1161">myprogram</tspan><tspan
+           sodipodi:role="line"
+           x="309.64111"
+           y="118.10932"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1163">(binary/executable)</tspan></text>
+    </g>
+  </g>
+</svg>
